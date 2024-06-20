@@ -20,13 +20,14 @@ yarn install
 docker-compose up
 ```
 
-6. Ejecutar seed 
+6. Ejecutar el proyecto con 
+```
+yarn start:dev
+```
+
+7. Ejecutar seed 
 ```
 http://localhost:3000/api/seed
 ```
 
-7. Ejecutar el proyecto con 
-```
-yarn start:dev
-```
 
